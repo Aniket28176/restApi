@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "first_name":"Sada",
+        "last_name":"Ghosh",
+        "email":"sadaghosh@gmail.com",
+        "gender":"Male",
+        "job_title":"Programmer Analyst II"
+    },
+    {
+        "id":2,
+        "first_name":"Saikat",
+        "last_name":"Ghosh",
+        "email":"saikatghosh@gmail.com",
+        "gender":"Male",
+        "job_title":"Programmer Analyst II"
+    },
+    {
+        "id":3,
+        "first_name":"Sumon",
+        "last_name":"Ghosh",
+        "email":"sumonghosh@gmail.com",
+        "gender":"Male",
+        "job_title":"Programmer Analyst II"
+    },
+    {
+        "id":4,
+        "first_name":"Sayan",
+        "last_name":"Ghosh",
+        "email":"sayanghosh@gmail.com",
+        "gender":"Male",
+        "job_title":"Programmer Analyst II"
+    },
+    {
+        "id":5,
+        "first_name":"Sovan",
+        "last_name":"Ghosh",
+        "email":"sovanghosh@gmail.com",
+        "gender":"Male",
+        "job_title":"Programmer Analyst II"
+    }
+]
